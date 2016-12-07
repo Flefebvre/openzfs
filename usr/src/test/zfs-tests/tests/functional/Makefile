@@ -42,6 +42,8 @@ SUBDIRS = acl \
 	largest_pool \
 	libzfs \
 	link_count \
+	logicalquota \
+	logicalrefquota \
 	mdb \
 	migration \
 	mmap \
